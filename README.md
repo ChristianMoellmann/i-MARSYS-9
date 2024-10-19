@@ -1,2 +1,2 @@
 # i-MARSYS-9
-Statics by students for students
+Statistics by students for students
